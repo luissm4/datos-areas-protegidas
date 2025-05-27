@@ -54,8 +54,8 @@
     "area_protegida": "Parque Nacional Natural Macuira",
     "tipo_de_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "11.9833,-71.5333",
-    "invasiones_previas": 0,
-    "ano_ultima_invasion": null,
+    "invasiones_previas": 1,
+    "ano_ultima_invasion": 1996,
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -95,7 +95,7 @@
     "tipo_de_area": "Área Única",
     "ubicacion_latitud_longitud": "8.2414,-73.1670",
     "invasiones_previas": 0,
-    "ano_ultima_invasion": null,
+    "ano_ultima_invasion": "n/a",
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -145,7 +145,7 @@
     "tipo_de_area": "Santuario",
     "ubicacion_latitud_longitud": "9.5333,-75.8333",
     "invasiones_previas": 0,
-    "ano_ultima_invasion": null,
+    "ano_ultima_invasion": "n/a",
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -185,7 +185,7 @@
     "tipo_de_area": "Santuario",
     "ubicacion_latitud_longitud": "10.2500,-74.9500",
     "invasiones_previas": 0,
-    "ano_ultima_invasion": null,
+    "ano_ultima_invasion": "n/a",
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
