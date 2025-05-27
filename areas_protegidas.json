@@ -1,62 +1,202 @@
 [
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"1;Parque Nacional Natural Tayrona;Parque Nacional;11.3001;-74.11;si;2017;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"2;Santuario de Flora y Fauna Galeras;Santuario;1.2256;-77.3597;No;n\/a;Media;Media"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"3;Reserva Forestal Protectora SerranÃ­a de los Paraguas;Reserva;4.9002;-76.2003;si;2015;Baja;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"4;Parque Nacional Natural Chiribiquete;Parque Nacional;0.7251;-72.6457;No;n\/a;Baja;Baja"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"5;Santuario de Fauna y Flora Malpelo;Santuario;3.9933;-81.5975;No;n\/a;Nula;Baja"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"6;Parque Nacional Natural Los Nevados;Parque Nacional;4.8009;-75.3636;si;2018;Media;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"7;Reserva Forestal Protectora Bosque de Yotoco;Reserva;3.9;-76.45;si;2020;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"8;Parque Nacional Natural El Tuparro;Parque Nacional;5.3533;-67.7656;No;n\/a;Baja;Media"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"9;Santuario de Flora Isla La Corota;Santuario;1.2833;-77.1333;si;2016;Alta;Media"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"10;Parque Nacional Natural Amacayacu;Parque Nacional;-3.807;-70.2671;No;n\/a;Media;Baja"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"11;Reserva Forestal Protectora Regional La Planada;Reserva;1.2;-77.4;si;2019;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"12;Parque Nacional Natural Farallones de Cali;Parque Nacional;3.3667;-76.6;si;2021;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"13;Santuario de Flora y Fauna Los Flamencos;Santuario;11.5278;-72.92;No;n\/a;Media;Media"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"14;Parque Nacional Natural Macuira;Parque Nacional;11.939;-71.4278;No;n\/a;Media;Baja"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"15;Reserva Forestal Protectora Alto de San Miguel;Reserva;6.1;-75.6;si;2014;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"16;Parque Nacional Natural La Paya;Parque Nacional;-0.5667;-76.6;No;n\/a;Baja;Baja"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"17;Santuario de Flora y Fauna Iguaque;Santuario;5.6167;-73.4667;si;2013;Alta;Media"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"18;Parque Nacional Natural Sierra Nevada de Santa Marta;Parque Nacional;10.9854;-73.9097;si;2022;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"19;Reserva Forestal Protectora RÃ­o Blanco;Reserva;5.05;-75.6;si;2020;Alta;Alta"
-    },
-    {
-        "no;area_protegida;tipo_de_area;latitud;longitud;invasiones_previas;año_ultima_invasion;proximidad_urbana;nivel_alerta":"20;Parque Nacional Natural Cordillera de los Picachos;Parque Nacional;2.5;-74.5;No;n\/a;Media;Media"
-    }
+  {
+    "no": 1,
+    "area_protegida": "Parque Nacional Natural Tayrona",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "11.3001,-74.1100",
+    "invasiones_previas": 2,
+    "ano_ultima_invasion": 2017,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 2,
+    "area_protegida": "Santuario de Flora y Fauna Los Flamencos",
+    "tipo_de_area": "Santuario",
+    "ubicacion_latitud_longitud": "11.5441,-72.9243",
+    "invasiones_previas": 1,
+    "ano_ultima_invasion": 2015,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 3,
+    "area_protegida": "Parque Nacional Natural Sierra Nevada de Santa Marta",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "10.9667,-73.7333",
+    "invasiones_previas": 3,
+    "ano_ultima_invasion": 2020,
+    "proximidad_urbana": "Baja",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 4,
+    "area_protegida": "Santuario de Fauna y Flora Ciénaga Grande de Santa Marta",
+    "tipo_de_area": "Santuario",
+    "ubicacion_latitud_longitud": "10.9000,-74.3333",
+    "invasiones_previas": 4,
+    "ano_ultima_invasion": 2019,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 5,
+    "area_protegida": "Reserva Forestal Protectora Serranía del Perijá",
+    "tipo_de_area": "Reserva Forestal",
+    "ubicacion_latitud_longitud": "10.3333,-72.6667",
+    "invasiones_previas": 2,
+    "ano_ultima_invasion": 2018,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 6,
+    "area_protegida": "Parque Nacional Natural Macuira",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "11.9833,-71.5333",
+    "invasiones_previas": 0,
+    "ano_ultima_invasion": null,
+    "proximidad_urbana": "Baja",
+    "nivel_alerta": "Baja"
+  },
+  {
+    "no": 7,
+    "area_protegida": "Parque Nacional Natural Corales del Rosario y de San Bernardo",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "10.1833,-75.7333",
+    "invasiones_previas": 5,
+    "ano_ultima_invasion": 2021,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 8,
+    "area_protegida": "Distrito Regional de Manejo Integrado Ciénaga de Mallorquín",
+    "tipo_de_area": "Distrito Regional",
+    "ubicacion_latitud_longitud": "11.0000,-74.8333",
+    "invasiones_previas": 1,
+    "ano_ultima_invasion": 2016,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 9,
+    "area_protegida": "Parque Natural Regional El Rompido",
+    "tipo_de_area": "Parque Regional",
+    "ubicacion_latitud_longitud": "10.8000,-75.0000",
+    "invasiones_previas": 2,
+    "ano_ultima_invasion": 2014,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 10,
+    "area_protegida": "Área Natural Única Los Estoraques",
+    "tipo_de_area": "Área Única",
+    "ubicacion_latitud_longitud": "8.2414,-73.1670",
+    "invasiones_previas": 0,
+    "ano_ultima_invasion": null,
+    "proximidad_urbana": "Baja",
+    "nivel_alerta": "Baja"
+  },
+  {
+    "no": 11,
+    "area_protegida": "Parque Nacional Natural Isla de Salamanca",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "11.0000,-74.3333",
+    "invasiones_previas": 3,
+    "ano_ultima_invasion": 2018,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 12,
+    "area_protegida": "Reserva Forestal Protectora Montes de María",
+    "tipo_de_area": "Reserva Forestal",
+    "ubicacion_latitud_longitud": "9.7500,-75.2500",
+    "invasiones_previas": 1,
+    "ano_ultima_invasion": 2017,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 13,
+    "area_protegida": "Parque Natural Regional Vía Parque Isla de Salamanca",
+    "tipo_de_area": "Parque Regional",
+    "ubicacion_latitud_longitud": "10.9333,-74.3333",
+    "invasiones_previas": 2,
+    "ano_ultima_invasion": 2019,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 14,
+    "area_protegida": "Zona de Reserva Forestal de la Sierra Nevada de Santa Marta",
+    "tipo_de_area": "Reserva Forestal",
+    "ubicacion_latitud_longitud": "11.0833,-73.9667",
+    "invasiones_previas": 4,
+    "ano_ultima_invasion": 2020,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 15,
+    "area_protegida": "Santuario de Fauna y Flora El Corchal \"El Mono Hernández\"",
+    "tipo_de_area": "Santuario",
+    "ubicacion_latitud_longitud": "9.5333,-75.8333",
+    "invasiones_previas": 0,
+    "ano_ultima_invasion": null,
+    "proximidad_urbana": "Baja",
+    "nivel_alerta": "Baja"
+  },
+  {
+    "no": 16,
+    "area_protegida": "Parque Nacional Natural Paramillo",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "7.8333,-76.2500",
+    "invasiones_previas": 3,
+    "ano_ultima_invasion": 2021,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Alta"
+  },
+  {
+    "no": 17,
+    "area_protegida": "Reserva Forestal Protectora Ciénaga El Silencio",
+    "tipo_de_area": "Reserva Forestal",
+    "ubicacion_latitud_longitud": "10.4667,-75.5333",
+    "invasiones_previas": 2,
+    "ano_ultima_invasion": 2016,
+    "proximidad_urbana": "Alta",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 18,
+    "area_protegida": "Parque Natural Regional La Ciénaga",
+    "tipo_de_area": "Parque Regional",
+    "ubicacion_latitud_longitud": "9.3667,-75.1667",
+    "invasiones_previas": 1,
+    "ano_ultima_invasion": 2015,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Media"
+  },
+  {
+    "no": 19,
+    "area_protegida": "Santuario de Fauna y Flora Ciénaga El Conchalito",
+    "tipo_de_area": "Santuario",
+    "ubicacion_latitud_longitud": "10.2500,-74.9500",
+    "invasiones_previas": 0,
+    "ano_ultima_invasion": null,
+    "proximidad_urbana": "Baja",
+    "nivel_alerta": "Baja"
+  },
+  {
+    "no": 20,
+    "area_protegida": "Parque Nacional Natural Los Colorados",
+    "tipo_de_area": "Parque Nacional",
+    "ubicacion_latitud_longitud": "9.8333,-75.2000",
+    "invasiones_previas": 1,
+    "ano_ultima_invasion": 2013,
+    "proximidad_urbana": "Media",
+    "nivel_alerta": "Media"
+  }
 ]
