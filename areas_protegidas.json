@@ -5,7 +5,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "11.3001,-74.1100",
     "invasiones_previas": 2,
-    "ano_ultima_invasion": 2017,
+    "año_ultima_invasion": 2017,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Alta"
   },
@@ -15,7 +15,7 @@
     "tipo_area": "Santuario",
     "ubicacion_latitud_longitud": "11.5441,-72.9243",
     "invasiones_previas": 1,
-    "ano_ultima_invasion": 2015,
+    "año_ultima_invasion": 2015,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Media"
   },
@@ -25,7 +25,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "10.9667,-73.7333",
     "invasiones_previas": 3,
-    "ano_ultima_invasion": 2020,
+    "año_ultima_invasion": 2020,
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Alta"
   },
@@ -35,7 +35,7 @@
     "tipo_area": "Santuario",
     "ubicacion_latitud_longitud": "10.9000,-74.3333",
     "invasiones_previas": 4,
-    "ano_ultima_invasion": 2019,
+    "año_ultima_invasion": 2019,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Alta"
   },
@@ -45,7 +45,7 @@
     "tipo_area": "Reserva Forestal",
     "ubicacion_latitud_longitud": "10.3333,-72.6667",
     "invasiones_previas": 2,
-    "ano_ultima_invasion": 2018,
+    "año_ultima_invasion": 2018,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Media"
   },
@@ -55,7 +55,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "11.9833,-71.5333",
     "invasiones_previas": 1,
-    "ano_ultima_invasion": 1996,
+    "año_ultima_invasion": 1996,
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -65,7 +65,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "10.1833,-75.7333",
     "invasiones_previas": 5,
-    "ano_ultima_invasion": 2021,
+    "año_ultima_invasion": 2021,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Alta"
   },
@@ -75,7 +75,7 @@
     "tipo_area": "Distrito Regional",
     "ubicacion_latitud_longitud": "11.0000,-74.8333",
     "invasiones_previas": 1,
-    "ano_ultima_invasion": 2016,
+    "año_ultima_invasion": 2016,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Media"
   },
@@ -85,7 +85,7 @@
     "tipo_area": "Parque Regional",
     "ubicacion_latitud_longitud": "10.8000,-75.0000",
     "invasiones_previas": 2,
-    "ano_ultima_invasion": 2014,
+    "año_ultima_invasion": 2014,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Media"
   },
@@ -95,7 +95,7 @@
     "tipo_area": "Área Única",
     "ubicacion_latitud_longitud": "8.2414,-73.1670",
     "invasiones_previas": 0,
-    "ano_ultima_invasion": "n/a",
+    "año_ultima_invasion": "n/a",
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -105,7 +105,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "11.0000,-74.3333",
     "invasiones_previas": 3,
-    "ano_ultima_invasion": 2018,
+    "año_ultima_invasion": 2018,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Alta"
   },
@@ -115,7 +115,7 @@
     "tipo_area": "Reserva Forestal",
     "ubicacion_latitud_longitud": "9.7500,-75.2500",
     "invasiones_previas": 1,
-    "ano_ultima_invasion": 2017,
+    "año_ultima_invasion": 2017,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Media"
   },
@@ -125,7 +125,7 @@
     "tipo_area": "Parque Regional",
     "ubicacion_latitud_longitud": "10.9333,-74.3333",
     "invasiones_previas": 2,
-    "ano_ultima_invasion": 2019,
+    "año_ultima_invasion": 2019,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Alta"
   },
@@ -135,7 +135,7 @@
     "tipo_area": "Reserva Forestal",
     "ubicacion_latitud_longitud": "11.0833,-73.9667",
     "invasiones_previas": 4,
-    "ano_ultima_invasion": 2020,
+    "año_ultima_invasion": 2020,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Alta"
   },
@@ -145,7 +145,7 @@
     "tipo_area": "Santuario",
     "ubicacion_latitud_longitud": "9.5333,-75.8333",
     "invasiones_previas": 0,
-    "ano_ultima_invasion": "n/a",
+    "año_ultima_invasion": "n/a",
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -155,7 +155,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "7.8333,-76.2500",
     "invasiones_previas": 3,
-    "ano_ultima_invasion": 2021,
+    "año_ultima_invasion": 2021,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Alta"
   },
@@ -165,7 +165,7 @@
     "tipo_area": "Reserva Forestal",
     "ubicacion_latitud_longitud": "10.4667,-75.5333",
     "invasiones_previas": 2,
-    "ano_ultima_invasion": 2016,
+    "año_ultima_invasion": 2016,
     "proximidad_urbana": "Alta",
     "nivel_alerta": "Media"
   },
@@ -175,7 +175,7 @@
     "tipo_area": "Parque Regional",
     "ubicacion_latitud_longitud": "9.3667,-75.1667",
     "invasiones_previas": 1,
-    "ano_ultima_invasion": 2015,
+    "año_ultima_invasion": 2015,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Media"
   },
@@ -185,7 +185,7 @@
     "tipo_area": "Santuario",
     "ubicacion_latitud_longitud": "10.2500,-74.9500",
     "invasiones_previas": 0,
-    "ano_ultima_invasion": "n/a",
+    "año_ultima_invasion": "n/a",
     "proximidad_urbana": "Baja",
     "nivel_alerta": "Baja"
   },
@@ -195,7 +195,7 @@
     "tipo_area": "Parque Nacional",
     "ubicacion_latitud_longitud": "9.8333,-75.2000",
     "invasiones_previas": 1,
-    "ano_ultima_invasion": 2013,
+    "año_ultima_invasion": 2013,
     "proximidad_urbana": "Media",
     "nivel_alerta": "Media"
   }
